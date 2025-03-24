@@ -7,8 +7,6 @@
 🚀 Currently exploring React.
 👩‍💻 Always learning & solving challenges!
 
-# 💫 About Me:
-🎓 3rd-year CSE Undergraduate <br>🌟 Passionate about Frontend Development<br>💡 Enjoy building sleek & scalable web applications.<br>🚀 Currently exploring React.<br>👩‍💻 Always learning & solving challenges!<br>
 
 
 # 💻 Tech Stack:
