@@ -1,4 +1,4 @@
-### Hi, I'm Seshadri! 👋🏻
+### Hi, I'm Seshadri! 🙋🏻‍♀
 
 🎓 3rd-year CSE Undergraduate <br>
 🌟 Passionate about Frontend Development<br>
