@@ -10,19 +10,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seshadri-dutta">
-    <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/>
+    <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/seshadri-dutta">
-    <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"/>
+    <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://discordapp.com/users/seshadri004">
-    <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord"/>
+    <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/DuttaSeshadri">
-    <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter"/>
+    <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter"/>
+  </a>
+    &nbsp;&nbsp;
+  <a href="mailto:seshadri.dutta@gmail.com">
+    <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail"/>
   </a>
 </p>
 
