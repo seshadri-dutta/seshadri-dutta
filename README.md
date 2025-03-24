@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=7E3ACE&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Seshadri!+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=7E3ACE&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Seshadri!+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%80" alt="Typing SVG" />
 </p>
 
+🎓 Btech Computer Science Graduating 2026<br>
 🌟 Passionate about Frontend Development<br>
 💡 Enjoy building sleek & scalable web applications<br>
 🚀 Currently exploring React<br>
