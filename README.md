@@ -1,4 +1,11 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=7E3ACE&width=600&lines=Hi%2C+I'm+Seshadri!+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%80" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=7E3ACE&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Seshadri!+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%80" alt="Typing SVG" />
+</p>
+
+🌟 Passionate about Frontend Development<br>
+💡 Enjoy building sleek & scalable web applications<br>
+🚀 Currently exploring React<br>
+👩‍💻 Always learning & solving challenges!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seshadri-dutta">
