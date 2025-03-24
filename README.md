@@ -1,11 +1,8 @@
 ### Hi, I'm Seshadri!🙋🏻‍♀️
 
 
-🎓 3rd-year CSE Undergraduate 
-🌟 Passionate about Frontend Development
-💡 Enjoy building sleek & scalable web applications.
-🚀 Currently exploring React.
-👩‍💻 Always learning & solving challenges!
+🎓 3rd-year CSE Undergraduate <br>🌟 Passionate about Frontend Development<br>💡 Enjoy building sleek & scalable web applications.<br>🚀 Currently exploring React.<br>👩‍💻 Always learning & solving challenges!<br>
+
 
 
 
