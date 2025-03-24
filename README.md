@@ -1,10 +1,35 @@
 ### Hi, I'm Seshadri! 🙋🏻‍♀
 
+
 🎓 3rd-year CSE Undergraduate <br>
 🌟 Passionate about Frontend Development<br>
 💡 Enjoy building sleek & scalable web applications<br>
 🚀 Currently exploring React<br>
 👩‍💻 Always learning & solving challenges!
+
+## 📝 About Me
+
+Transforming complex problems into elegant digital solutions, one line of code at a time - bridging creativity with technical expertise.
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seshadri-dutta">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/seshadri-dutta">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discordapp.com/users/seshadri004">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://twitter.com/DuttaSeshadri">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.codechef.com/users/seshadri_dutta">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+</p>
 
 ## 💻 Tech Stack
 
