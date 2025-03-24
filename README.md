@@ -1,35 +1,23 @@
-### Hi, I'm Seshadri! 🙋🏻‍♀
-
-
-🎓 3rd-year CSE Undergraduate <br>
-🌟 Passionate about Frontend Development<br>
-💡 Enjoy building sleek & scalable web applications<br>
-🚀 Currently exploring React<br>
-👩‍💻 Always learning & solving challenges!
-
-## 📝 About Me
-
-Transforming complex problems into elegant digital solutions, one line of code at a time - bridging creativity with technical expertise.
-
-## 🤝 Connect with Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=7E3ACE&width=600&lines=Hi%2C+I'm+Seshadri!+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%80" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seshadri-dutta">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/seshadri-dutta">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://discordapp.com/users/seshadri004">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord"/>
   </a>
-  <a href="https://twitter.com/DuttaSeshadri">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.codechef.com/users/seshadri_dutta">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  &nbsp;&nbsp;
+  <a href="https://x.com/DuttaSeshadri">
+    <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter"/>
   </a>
 </p>
+
 
 ## 💻 Tech Stack
 
