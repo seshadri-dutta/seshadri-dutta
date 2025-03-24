@@ -47,5 +47,13 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=seshadri-dutta&icon=0&color=0" alt="Profile Views">
+  <a href="https://github.com/seshadri-dutta">
+    <img src="https://komarev.com/ghpvc/?username=seshadri-dutta&color=blueviolet&style=flat-square" alt="Profile Views">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/seshadri-dutta">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/seshadri-dutta?color=blueviolet&logo=github&style=for-the-badge">
+  </a>
 </p>
