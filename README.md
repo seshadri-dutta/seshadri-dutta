@@ -25,7 +25,7 @@
     <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter"/>
   </a>
     &nbsp;&nbsp;
-  <a href="mailto:seshadri.dutta@gmail.com">
+  <a href="mailto:seshadridutta@gmail.com">
     <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail"/>
   </a>
 </p>
